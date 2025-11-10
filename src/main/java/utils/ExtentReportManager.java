@@ -3,7 +3,7 @@ package utils;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
-
+//this is comment to check the change in the QA branch
 public class ExtentReportManager {
 	
 	private static ExtentReports extent;  //template
